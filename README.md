@@ -1,8 +1,8 @@
 ### Hi there! 
-### I'm a father, husband and a long life learner looking forward to learn something new. <br/><br/> Former Strategy & Consulting manager @ [Accenture](https://www.accenture.com/br-pt). <br/>I'm currently CTO @ [FutureMe](https://futureme.tech) 👋. 
+### I'm a hands-on person and long life learner looking forward to learn something new. <br/><br/> Former Strategy & Consulting manager @ [Accenture](https://www.accenture.com/br-pt). <br/>I'm currently CTO @ [FutureMe](https://futureme.tech) 👋. 
 
 ## . About Me:
-🔭 I'm currently working on building the future of career orientation for students in high school. <br>🌱 I’m currently learning devops, gamification and customer engagement strategy.<br>💬 Ask me about #edtech #career #java #typescript #automation<br>⚡ Fun fact: My favorite language is Python 🤓
+🔭 I'm currently working on building the future of career orientation for students in high school. <br>🌱 I’m currently learning LLMs/RAG, devops and gamification.<br>💬 Ask me about #edtech #career #javascript #typescript #automation #consulting #SaaS <br>⚡ Fun fact: My favorite language is Python 🤓
 
 
 ## . Socials:
